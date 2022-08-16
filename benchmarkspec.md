@@ -21,3 +21,6 @@ Architecture | CPU = 64-bit, OS = 64-bit
        Total | 187.6G
         Free | 4.3G
 ```
+
+Storage:
+`Intel® SSD DC P4610 Series`
