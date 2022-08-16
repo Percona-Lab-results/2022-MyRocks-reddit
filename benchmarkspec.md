@@ -1,4 +1,5 @@
 Hardware
+```
 # Percona Toolkit System Summary Report ######################
         Date | 2022-08-16 11:01:17 UTC (local TZ: EDT -0400)
     Hostname | beast-node1-ubuntu
@@ -19,3 +20,4 @@ Architecture | CPU = 64-bit, OS = 64-bit
 # Memory #####################################################
        Total | 187.6G
         Free | 4.3G
+```
